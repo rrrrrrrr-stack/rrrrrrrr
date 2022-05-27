@@ -29,6 +29,7 @@ These are the eight default technologies that make up the stack, but other techn
 - [Redis](https://redis.io/) Data Store
 - [Riak KV](https://github.com/basho/riak_kv) Data Store
 - [RocksDB](https://rocksdb.org/) Data Store
+- [rqlite](http://www.rqlite.io/) Data Store
 - [RockyLinux](https://rockylinux.org/) Operating System
 - [Rancher](https://rancher.com/) Orchestration Platform
 
